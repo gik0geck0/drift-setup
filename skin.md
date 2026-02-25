@@ -1,5 +1,7 @@
 Cars in assetto are ultimately just an image texture which was comprised of many layers. In this quick tutorial, we'll walk through the basic process of getting started.
 
+For a video overview, see: [James Rowland: Everything You Need to Know About Assetto Corsa Livery/Skin Making](https://img.youtube.com?v=-Jkyxd1s1Vg)
+
 # Create a New Skin
 1. Content Manager > Content > Car > Skins
 2. Clone, pick an ID
@@ -39,6 +41,8 @@ There are many programs capable of this:
 Note: the name of this file must be the same as what was found when you were in CM Showroom (e.g. EXT_BODY.dds)
 
 Few options:
+- Photoshop + [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/texture-tools-exporter)
+  - Export As DDS
 - [Gimp](https://www.gimp.org/downloads/)
   - Open PNG
   - File > Export As
